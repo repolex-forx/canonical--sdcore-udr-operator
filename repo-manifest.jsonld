@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-udr-operator/commit/2405e4e92f2593864bb74abc55c0275b740c5c16",
       "git:hexsha": "2405e4e92f2593864bb74abc55c0275b740c5c16",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-udr-operator/commit/e7506e8bdc11c4a53304611649a9d6b0a7175fed",
