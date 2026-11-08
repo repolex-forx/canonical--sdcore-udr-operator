@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "sdcore-udr-operator",
+  "versions": [
+    {
+      "commit": "2405e4e92f2593864bb74abc55c0275b740c5c16",
+      "tag": "",
+      "parsed_at": "2026-11-08T14:51:58.493479+00:00"
+    }
+  ]
+}
